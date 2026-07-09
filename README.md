@@ -2,7 +2,7 @@
 
 ### NLP / LLM engineer with a linguistics background — currently building software inside a medical practice
 
-I came to machine learning from the language side a [Master's in Computational Linguistics] (https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-humaines-et-sociales-SHS/sciences-du-langage-K2M2HGHR/master-sciences-du-langage-parcours-computational-linguistics-JRXEE7TD.html) at Université Paris Cité. These days I work on as engineer in medecine domain.
+I came to machine learning from the language side a [Master's in Computational Linguistics](https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-humaines-et-sociales-SHS/sciences-du-langage-K2M2HGHR/master-sciences-du-langage-parcours-computational-linguistics-JRXEE7TD.html) at Université Paris Cité. These days I work on as engineer in medecine domain.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-megret)
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:megret.leo@protonmail.com)
