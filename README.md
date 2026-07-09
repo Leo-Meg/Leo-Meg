@@ -49,13 +49,6 @@ Automating action-matrix definition for genomic data analysis, plus clustering a
 
 Before all of this: a BA in Philosophy — Logic & Scientific Culture — at Panthéon-Sorbonne. It turns out reading Frege is decent preparation for debugging.
 
-## 📊 GitHub
-
-<!-- TODO: these render live from Vercel and occasionally rate-limit.
-     Swap `theme=default` for `theme=dark` / `radical` / `github_dark` to taste. -->
-![Léo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Meg&show_icons=true&hide_border=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Meg&layout=compact&hide_border=true&theme=default)
-
 ## 📫 Get in touch
 
 Happy to talk 
