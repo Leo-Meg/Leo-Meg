@@ -2,7 +2,7 @@
 
 ### NLP / LLM engineer with a linguistics background — currently building software inside a medical practice
 
-I came to machine learning from the language side: a philosophy degree in logic, then a Master's in Computational Linguistics at Université Paris Cité. These days I work on large language models applied to healthcare — clinical text, medical terminologies, and the gloriously messy real-world data systems sitting underneath them.
+I came to machine learning from the language side a Master's in Computational Linguistics at Université Paris Cité. These days I work on large language models applied to healthcare — clinical text, medical terminologies, and the gloriously messy real-world data systems sitting underneath them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-megret)
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:megret.leo@protonmail.com)
